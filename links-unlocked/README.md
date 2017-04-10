@@ -6,4 +6,4 @@ The list has two columns:
 
     {filename}, {hyperlink}
 
-Can be used (unquoted) as direct input into the httpreserve-workbench.
+Can be used as input to various tools. 
